@@ -1,0 +1,4 @@
+name = "beetle"
+grammar = "beetle"
+path_suffixes = ["btl"]
+line_comments = ["--"]
