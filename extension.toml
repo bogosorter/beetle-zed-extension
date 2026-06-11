@@ -8,4 +8,4 @@ description = "beetle syntax highlighting"
 
 [grammars.beetle]
 repository = "https://github.com/bogosorter/tree-sitter-beetle"
-commit = "d58868e22ba1f589b2ea125809bcd2d3726a4793"
+commit = "58935ea5b778d45bf5e0e3d7dbbe655fcef164bd"
