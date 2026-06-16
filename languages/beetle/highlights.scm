@@ -8,6 +8,7 @@
     "boolean"
 ] @type
 
+(typeSymbol) @type
 (integer) @number
 (boolean) @boolean
 (symbol) @variable
